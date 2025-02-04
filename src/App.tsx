@@ -84,7 +84,7 @@ function App() {
       image: "/character/five.png",
     },
     {
-      content: "Will you be my Valentine? 💝",
+      content: "Will you be my Valentine Miss Bhoomi? 💝",
       image: "/character/six.png",
     },
   ];
